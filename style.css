@@ -66,6 +66,18 @@ header {
     font-size: 14px;
 }
 
+table.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table.table th, table.table td {
+    border: 1px solid #FFA500;
+    padding: 10px;
+    text-align: center;
+}
+
 footer {
     background: #FF8C00;
     color: #fff;
